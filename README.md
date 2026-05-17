@@ -121,8 +121,7 @@ the amount of course material they need to study. It is especially
 useful for Data Science and STEM students who deal with dense lecture 
 notes, complex practice problems, and multiple courses at once.
 
-It was built by a Data Science student at Simon Fraser University 
-in Vancouver, Canada, for students exactly like her.
+
 
 ---
 
